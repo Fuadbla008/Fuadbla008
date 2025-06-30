@@ -1,13 +1,10 @@
-## 👋 Hi, I'm Fuad – A Passionate Web Developer!
+## Hi, I'm Fuad – A Passionate Web Developer!
 
-I'm a self-motivated and enthusiastic web developer with a strong passion for building modern, user-friendly, and efficient websites. I love solving real-world problems through clean and responsive code. My expertise includes both front-end and back-end development. 💻✨
-
-💡 I’m always eager to learn new technologies, improve my skills, and take on challenging projects.
+I'm a self-motivated and enthusiastic web developer with a strong passion for building modern, user-friendly, and efficient websites. I love solving real-world problems through clean and responsive code. My expertise includes both front-end and back-end development. 💻
 
 📫 For inquery
-- 📧 Email: barkatislamfuad@gmail.com
+📧 Email: barkatislamfuad@gmail.com
 
-**“Every line of code is a step toward building something amazing.”**
 
 ### 🛠️ My Tech Stack
 
