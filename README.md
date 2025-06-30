@@ -5,6 +5,7 @@ I'm a self-motivated and enthusiastic web developer with a strong passion for bu
 📫 For inquery
 📧 Email: barkatislamfuad@gmail.com
 
+![Last Commit](https://img.shields.io/github/last-commit/Fuadbla008/Fuadbla008?style=for-the-badge)
 
 ### 🛠️ My Tech Stack
 
