@@ -45,21 +45,10 @@ I'm a self-motivated and enthusiastic web developer with a strong passion for bu
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-![Fuad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fuadbla008&show_icons=true&theme=tokyonight)
-
+<div>
+  
+  ![Fuad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fuadbla008&show_icons=true&theme=tokyonight)
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuadbla008&layout=compact&theme=tokyonight)
+</div>
 
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
