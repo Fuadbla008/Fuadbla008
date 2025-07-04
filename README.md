@@ -4,6 +4,7 @@ I'm a self-motivated and enthusiastic web developer with a strong passion for bu
 
 📫 For inquery
 📧 Email: barkatislamfuad@gmail.com
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ![Last Commit](https://img.shields.io/github/last-commit/Fuadbla008/Fuadbla008?style=for-the-badge)
 
