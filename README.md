@@ -52,3 +52,4 @@ I'm a self-motivated and enthusiastic web developer with a strong passion for bu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fuadbla008&layout=compact&theme=tokyonight)
 </div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fuadbla008"></img>
