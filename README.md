@@ -25,12 +25,12 @@ I'm a self-motivated and enthusiastic web developer with a strong passion for bu
 #### 🧠 Backend Development
 ![PHP](https://img.shields.io/badge/PHP_basic-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.jsz_basic-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js_basic-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_mid-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_basic-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 #### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQLz_basic-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_basic-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_basic-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_basic-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite_basic-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
