@@ -22,11 +22,11 @@
 <br/>
 
 <!-- ▓▓ SOCIAL LINKS ▓▓ -->
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffe1" /></a>
-<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffe1" /></a>
-<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00ffe1" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffe1" /></a>
-<a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ffe1" /></a>
+<a href="https://fuad.dev.bd" target="_balank"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffe1" /></a>
+<a href="https://linkedin.com/in/fuadbla008"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffe1" /></a>
+<a href="https://twitter.com/barkatislamfuad"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00ffe1" /></a>
+<a href="mailto:barkatislamfuad@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffe1" /></a>
+<a href="https://discord.com/users/dev.fuad007"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ffe1" /></a>
 
 <br/><br/>
 
