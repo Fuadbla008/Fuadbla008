@@ -37,11 +37,26 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+# GitHub Profile 3D Contrib
 
-## 📸 Showcase
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/sample.gif">
-    <source media="(prefers-color-scheme: light)" srcset="docs/assets/sample.gif">
-    <img alt="GIFOS" src="docs/assets/sample.gif">
-</picture>
+<!-- Language code order (except English) -->
+English (en) |
+[Deutsch (de)](docs/README.de.md) |
+[Español (es)](docs/README.es.md) |
+[Français (fr)](docs/README.fr.md) |
+[日本語 (ja)](docs/README.ja.md) |
+[한국어 (ko)](docs/README.ko.md) |
+[Português (pt-BR)](docs/README.pt-br.md) |
+[Português (pt)](docs/README.pt.md) |
+[Русский (ru)](docs/README.ru.md) |
+[简体中文 (zh-CN)](docs/README.zh-CN.md) |
+[繁體中文 (zh-TW)](docs/README.zh-TW.md) |
+
+<!--
+> [!NOTE]
+> This translation was generated with machine translation.
+> It may contain errors or unnatural expressions.
+> Contributions to improve the translation are welcome!
+ -->
