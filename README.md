@@ -89,9 +89,9 @@
 <!-- Sleek contribution activity graph with theme sensitivity -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=KevCui&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
-    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=KevCui&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
-    <img alt="Mahyudeen's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=KevCui&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12">
+    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12">
+    <img alt="Mahyudeen's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12" width="100%" />
   </picture>
 </p>
 
@@ -99,24 +99,24 @@
 <p align="left">
   <!-- GitHub Stats Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=KevCui&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=KevCui&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
-    <img alt="Mahyudeen's GitHub Stats" src="https://ghstats.dev/api/card?username=KevCui&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=Fuadbla008&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=Fuadbla008&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Mahyudeen's GitHub Stats" src="https://ghstats.dev/api/card?username=Fuadbla008&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
   </picture>
   <!-- Top Languages Card -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=KevCui&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=KevCui&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
-    <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=KevCui&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
+    <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
   </picture>
 
 </p>
 
 <a href="https://fuad.dev.bd" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=KevCui&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=KevCui&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=KevCui&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280" />
     </picture>
   </a>
 
