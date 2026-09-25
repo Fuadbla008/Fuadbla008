@@ -1,415 +1,144 @@
-<!-- ══════════════════════════════════════════════════════════════════════
-     ZENITH-∞ · XENO-OPERATIONS CONSOLE
-     SPECIMEN: FUAD-008 · STATUS: ACTIVE OBSERVATION
-     SYSTEM CORE: AMBER-CRT · BIO-JADE · SIGNAL-RED
-     ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    🌌  N E O N   G R I D  //  P R O F I L E             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb347,50:ff8c00,100:00e6b8&height=200&section=header&text=ZENITH-%E2%88%9E&fontSize=62&fontColor=05070a&fontAlignY=34&desc=SPECIMEN%20OBSERVATION%20CONSOLE&descAlignY=58&descSize=16&descColor=05070a"/>
+<!-- ▓▓ ANIMATED HEADER ▓▓ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffe1,100:8a2be2&height=200&section=header&text=YOUR%20NAME&fontSize=70&fontColor=00ffe1&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=bf00ff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=18&duration=3000&pause=600&color=FFB347&center=true&vCenter=true&width=880&height=60&lines=%5B%5D+SCANNING+SPECIMEN+CHAMBER...;%5B%5D+BIOSIGN+LOCK+%3A+FUAD-008;%5B%5D+BEHAVIORAL+PROFILE+LOADED;%5B%5D+ANOMALY+DETECTED+%3A+CODE+APTITUDE;%5B%5D+OBSERVATION+PROTOCOL+ENGAGED_%E2%96%B6" alt="Specimen Scan"/>
+<!-- ▓▓ TYPING ANIMATION ▓▓ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFE1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%3E+Initializing+developer.exe...;%3E+Full-Stack+Engineer+%7C+MERN+%7C+Next.js;%3E+Building+the+future%2C+one+commit+at+a+time.;%3E+System+online.+Let's+build+something+epic." alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%5B%E2%AC%A2%5D_CHAMBER-A_7_SEALED-ffb347?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/%5B%E2%AC%A1%5D_BIOSIGN-NOMINAL-00e6b8?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/%5B%E2%8C%96%5D_THREAT-LEVEL_ZERO-ffb347?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/%5B%E2%8C%AC%5D_RECORDS-CLASSIFIED-ff3b30?style=for-the-badge&labelColor=05070a"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Fuadbla008&label=%E2%AC%A2+CHAMBER+VISITS&color=ffb347&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Fuadbla008?label=%E2%AC%A1+OBSERVERS&style=for-the-badge&color=00e6b8&labelColor=05070a"/>
-<img src="https://img.shields.io/github/stars/Fuadbla008?label=%E2%8C%96+RECORDS&style=for-the-badge&color=ff3b30&labelColor=05070a"/>
-
-</div>
-
----
-
-## `[ ⬢ ]` SPECIMEN_DOSSIER
-
-╔══════════════════════════════════════════════════════════════════════╗
-║ ZENITH-∞ · XENO OBSERVATION RECORD ║
-║ CLEARANCE LEVEL : OBSERVER · FILE #008 ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ ║
-║ ▸ CHAMBER ID : A-7 · DHAKA SECTOR ║
-║ ▸ SPECIMEN CODE : FUAD-008 ║
-║ ▸ DESIG. NAME : BARKAT ISLAM FUAD ║
-║ ▸ CLASSIFICATION : FRONTEND ENGINEER · SELF-ORIGINATED ║
-║ ▸ SUB-MUTATION : CS STUDENT · CTF ROOKIE ║
-║ ▸ TEMPORAL SYNC : UTC +06:00 ║
-║ ▸ SPATIAL ANCHOR : 23.8103°N · 90.4125°E ║
-║ ║
-║ ▸ CORE STATE : ● ACTIVE · NON-HOSTILE ║
-║ ▸ DIRECTIVE : CONSTRUCT USER-FACING INTERFACES ║
-║ ▸ RESPONSE CYCLE : < 24 EARTH HOURS ║
-║ ▸ CONTACT PROTOCOL : OPEN FOR ASSIGNMENT ║
-║ ║
-║ ▸ PRIMARY CHANNEL : barkatislamfuad@gmail.com ║
-║ ▸ ARCHIVE NODE : @Fuadbla008 ║
-║ ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-
----
-
-## `[ ⬡ ]` BIOSIGN_ANALYSIS
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-┌─ OBSERVATION LOG ──────────────────────────────────────┐
-│ │
-│ ⬢ GREETING · "ASSALAMU ALAIKUM" │
-│ │
-│ Subject is a SELF-MOTIVATED web developer entity │
-│ operating from Dhaka sector. Behavioral analysis │
-│ indicates strong drive toward building MODERN, │
-│ USER-FRIENDLY, EFFICIENT web ecosystems. │
-│ │
-│ Primary function: │
-│ ▸ Transform real-world problems into │
-│ clean, responsive code │
-│ │
-│ Operations span: │
-│ ▸ FRONTEND interfaces │
-│ ▸ BACKEND systems │
-│ │
-│ Off-cycle behavior: │
-│ ▸ CTF challenge penetration │
-│ ▸ Emergent tech research │
-│ ▸ Continuous stack augmentation │
-│ │
-└────────────────────────────────────────────────────────┘
-
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="bio-scan"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/BIO_SIGNATURE-NOMINAL-00e6b8?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/NEURAL_LOAD-99.97%25-ffb347?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/RESPONSE_LAT-0.003ms-ffb347?style=for-the-badge&labelColor=05070a"/>
-
-</td>
-</tr>
-</table>
-
----
-
-## `[ ⬢ ]` CAPABILITY_READOUT · MODULE ARRAY
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%5B_SCAN_%5D_08_CAPABILITY_MODULES_DETECTED-05070a?style=for-the-badge&labelColor=05070a&color=ffb347"/>
-
-</div>
-
-╔══════════════════════════════════════════════════════════════════════╗
-║ MODULE ARRAY · SPECIMEN FUAD-008 · CAPABILITY SCAN COMPLETE ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ ║
-║ [01] ⬢ FRONTEND_CORTEX ║
-║ └─ Status: HIGHLY DEVELOPED ║
-║ ║
-║ → html5 ── ████████████████████░░ 95% ║
-║ → css3 ── ████████████████████░░ 95% ║
-║ → javascript ── ██████████████████░░░░ 90% ║
-║ → tailwindcss ── ██████████████████░░░░ 90% ║
-║ → react ── █████████████████░░░░░ 85% ║
-║ → bootstrap ── ████████████████░░░░░░ 80% ║
-║ → next.js ── ██████████████░░░░░░░░ 70% ║
-║ → jquery ── ████████████░░░░░░░░░░ 60% ║
-║ ║
-║ [02] ⬡ BACKEND_REACTOR ║
-║ └─ Status: FUNCTIONAL ║
-║ ║
-║ → node.js ── ███████████████░░░░░░░ 75% ║
-║ → python ── ██████████████░░░░░░░░ 70% ║
-║ → php ── ██████████░░░░░░░░░░░░ 50% ║
-║ → django ── ██████████░░░░░░░░░░░░ 50% ║
-║ → express.js ── ██████████░░░░░░░░░░░░ 50% ║
-║ ║
-║ [03] ⌬ DATA_VAULT ║
-║ └─ Status: OPERATIONAL ║
-║ ║
-║ → mysql ── ████████████░░░░░░░░░░ 60% ║
-║ → mongodb ── ████████████░░░░░░░░░░ 60% ║
-║ → postgresql ── ██████████░░░░░░░░░░░░ 50% ║
-║ → sqlite ── ██████████░░░░░░░░░░░░ 50% ║
-║ ║
-║ [04] ⌖ UTILITY_DRONES ║
-║ └─ Status: FULLY SYNCHRONIZED ║
-║ ║
-║ → git ── ██████████████████░░░░ 90% ║
-║ → github ── ██████████████████░░░░ 90% ║
-║ → vs_code ── ███████████████████░░░ 95% ║
-║ → linux ── ████████████████░░░░░░ 80% ║
-║ → figma ── ████████████████░░░░░░ 80% ║
-║ → postman ── ███████████████░░░░░░░ 75% ║
-║ → vercel ── █████████████████░░░░░ 85% ║
-║ ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-
----
-
-## `[ ⌬ ]` REAL-TIME_TELEMETRY · GITHUB FEED
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%5B_LIVE_%5D_ARCHIVE_DATASTREAM-05070a?style=for-the-badge&labelColor=05070a&color=00e6b8"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fuadbla008&show_icons=true&theme=gotham&hide_border=true&bg_color=05070a&title_color=ffb347&icon_color=00e6b8&text_color=e6d5b3&border_radius=8&include_all_commits=true&count_private=true&custom_title=%E2%AC%A2%20ACTIVITY%20LOG" height="180"/>
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuadbla008&layout=compact&theme=gotham&hide_border=true&bg_color=05070a&title_color=ffb347&text_color=e6d5b3&border_radius=8&langs_count=8&custom_title=%E2%AC%A1%20LANGUAGE%20DIST" height="180"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fuadbla008&theme=gotham&hide_border=true&background=05070a&stroke=ffb347&ring=00e6b8&fire=ff3b30&currStreakLabel=ffb347&sideLabels=e6d5b3&dates=00e6b8&currStreakNum=ff3b30&sideNums=ffb347" height="180"/>
-
-</td>
-</tr>
-</table>
+<!-- ▓▓ STATUS BADGES ▓▓ -->
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffe1?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00ffe1)
+![Focus](https://img.shields.io/badge/FOCUS-FULL--STACK-8a2be2?style=for-the-badge&labelColor=0d1117&logo=target&logoColor=8a2be2)
+![Location](https://img.shields.io/badge/LOCATION-EARTH-ff2e97?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=ff2e97)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fuadbla008&theme=github-compact&bg_color=05070a&color=ffb347&line=00e6b8&point=ff3b30&area=true&hide_border=true&title_color=ffb347&custom_title=CONTINUOUS%20SIGNAL%20TRACE" width="100%"/>
+<!-- ▓▓ SOCIAL LINKS ▓▓ -->
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffe1" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffe1" /></a>
+<a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00ffe1" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffe1" /></a>
+<a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ffe1" /></a>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fuadbla008&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title_color=ffb347&text_color=e6d5b3" width="100%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-## `[ ⍟ ]` ACTIVE_OBSERVATIONS · TASK MANIFEST
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> `> whoami`
 
 
-╔══════════════════════════════════════════════════════════════════════╗
-║ ZENITH-∞ · PRIORITY QUEUE · CURRENT OBSERVATION CYCLE ║
-╠══════════════════════════════════════════════════════════════════════╣
-║ ║
-║ ┌─[ TASK-A7-001 ]───────────────── STATE: ▶ DEPLOYING ┐║
-║ │ │║
-║ │ OPERATION : Portfolio · ZENITH interface │║
-║ │ STACK : Next.js · React · Tailwind · astronomy-engine │║
-║ │ SIGNAL : ████████████████████░░░░ 90% │║
-║ │ COUNTDOWN : T-48H │║
-║ │ │║
-║ └──────────────────────────────────────────────────────────────────┘║
-║ ║
-║ ┌─[ TASK-A7-002 ]───────────────── STATE: ▶ IN PROGRESS ┐║
-║ │ │║
-║ │ OPERATION : Advanced React Patterns & Next.js 15 │║
-║ │ FOCUS : Server Components · RSC · Streaming │║
-║ │ SIGNAL : ██████████████░░░░░░░░░░ 70% │║
-║ │ │║
-║ └──────────────────────────────────────────────────────────────────┘║
-║ ║
-║ ┌─[ TASK-A7-003 ]───────────────── STATE: ▶ EXPLORING ┐║
-║ │ │║
-║ │ OPERATION : CTF Challenges · Cyber fundamentals │║
-║ │ LEVEL : Rookie → Intermediate │║
-║ │ SIGNAL : ████████░░░░░░░░░░░░░░░░ 40% │║
-║ │ │║
-║ └──────────────────────────────────────────────────────────────────┘║
-║ ║
-║ ┌─[ TASK-A7-004 ]───────────────── STATE: ○ QUEUED ┐║
-║ │ │║
-║ │ OPERATION : Open Source Contributions │║
-║ │ SIGNAL : ░░░░░░░░░░░░░░░░░░░░░░░░ AWAITING │║
-║ │ │║
-║ └──────────────────────────────────────────────────────────────────┘║
-║ ║
-╚══════════════════════════════════════════════════════════════════════╝
+/**
+ * @file      developer.profile.ts
+ * @author    Your Name
+ * @version   2.0.26
+ * @license   MIT
+ */
 
+interface Developer {
+  name:        string;
+  role:        string;
+  location:    string;
+  experience:  string;
+  languages:   string[];
+  focus:       string[];
+  currently:   string;
+  philosophy:  string;
+}
 
----
+const developer: Developer = {
+  name:       "Your Name",
+  role:       "Full-Stack Web Developer",
+  location:   "Dhaka, Bangladesh 🇧🇩",
+  experience: "3+ years",
+  languages:  ["JavaScript", "TypeScript", "Python", "Go"],
+  focus: [
+    "Scalable Web Architecture",
+    "Realtime Systems",
+    "Design Systems",
+    "DevOps Automation"
+  ],
+  currently:  "Building next-gen SaaS products 🚀",
+  philosophy: "Code is poetry. Ship fast. Break nothing.",
+};
 
-## `[ ⌖ ]` PRIMARY_CONTACT_PORTS
+export default developer;
 
+💬 "I architect digital experiences that feel effortless — from pixel-perfect UIs to bulletproof backends."
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+⚡ > tech_stack --list
 <div align="center">
+🎨 Frontend Engineering
+<p> <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Framer_Motion-0d1117?style=for-the-badge&logo=framer&logoColor=0055FF" /> <img src="https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC" /> <img src="https://img.shields.io/badge/Zustand-0d1117?style=for-the-badge&logo=react&logoColor=00ffe1" /> <img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF" /> <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" /> </p>
+🛠️ Backend & APIs
+<p> <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E" /> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688" /> <img src="https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098" /> <img src="https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" /> </p>
+🗄️ Databases & Storage
+<p> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D" /> <img src="https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" /> <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" /> </p>
+☁️ DevOps & Cloud
+<p> <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" /> <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" /> <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" /> <img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639" /> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" /> </p>
+🧰 Tools & Workflow
+<p> <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /> <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/Jest-0d1117?style=for-the-badge&logo=jest&logoColor=C21325" /> <img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=2EAD33" /> <img src="https://img.shields.io/badge/Cypress-0d1117?style=for-the-badge&logo=cypress&logoColor=69D3A7" /> </p></div>
 
-<img src="https://img.shields.io/badge/%5B_OPEN_%5D_ENCRYPTED_UPLINK_CHANNELS-05070a?style=for-the-badge&labelColor=05070a&color=ff3b30"/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<br/><br/>
+📊 > system --stats
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffe1&icon_color=8a2be2&text_color=c9d1d9&border_color=00ffe1&include_all_commits=true&count_private=true&hide_border=false" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=00ffe1&text_color=c9d1d9&border_color=8a2be2&langs_count=8&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0d1117&stroke=00ffe1&ring=8a2be2&fire=ff2e97&currStreakLabel=00ffe1&sideLabels=c9d1d9&dates=c9d1d9&border=00ffe1" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=false&no-bg=false&column=7&margin-w=8&margin-h=8&title_color=00ffe1&icon_color=8a2be2" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ffe1&line=8a2be2&point=ff2e97&area=true&hide_border=false" width="100%"/></div>
 
-<a href="mailto:barkatislamfuad@gmail.com">
-  <img src="https://img.shields.io/badge/%E2%96%B6_MAIL-barkatislamfuad-D14836?style=for-the-badge&labelColor=05070a&logo=gmail&logoColor=D14836"/>
-</a>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+🚀 > featured --projects
+<table> <tr> <td width="50%" valign="top"> <h3>🛸 Project Alpha</h3> <p><em>AI-powered SaaS dashboard with realtime collaboration</em></p> <p> <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" /> </p> <p> <a href="#"><img src="https://img.shields.io/badge/View_Demo-00ffe1?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-8a2be2?style=for-the-badge&logo=github&logoColor=0d1117" /></a> </p> </td> <td width="50%" valign="top"> <h3>⚡ Project Beta</h3> <p><em>High-performance e-commerce platform with microservices</em></p> <p> <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E" /> <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D" /> <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" /> </p> <p> <a href="#"><img src="https://img.shields.io/badge/View_Demo-00ffe1?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-8a2be2?style=for-the-badge&logo=github&logoColor=0d1117" /></a> </p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🌐 Project Gamma</h3> <p><em>Realtime chat & video calling web app</em></p> <p> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Socket.io-0d1117?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-0d1117?style=flat-square&logo=webrtc&logoColor=00ffe1" /> </p> <p> <a href="#"><img src="https://img.shields.io/badge/View_Demo-00ffe1?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-8a2be2?style=for-the-badge&logo=github&logoColor=0d1117" /></a> </p> </td> <td width="50%" valign="top"> <h3>🔮 Project Delta</h3> <p><em>Open-source UI component library</em></p> <p> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Storybook-0d1117?style=flat-square&logo=storybook&logoColor=FF4785" /> </p> <p> <a href="#"><img src="https://img.shields.io/badge/View_Demo-00ffe1?style=for-the-badge&logo=vercel&logoColor=0d1117" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-8a2be2?style=for-the-badge&logo=github&logoColor=0d1117" /></a> </p> </td> </tr> </table>
 
-<a href="https://github.com/Fuadbla008">
-  <img src="https://img.shields.io/badge/%E2%96%B6_NODE-Fuadbla008-e6d5b3?style=for-the-badge&labelColor=05070a&logo=github&logoColor=e6d5b3"/>
-</a>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://linkedin.com/in/fuadbla008">
-  <img src="https://img.shields.io/badge/%E2%96%B6_LINKEDIN-fuadbla008-0A66C2?style=for-the-badge&labelColor=05070a&logo=linkedin&logoColor=0A66C2"/>
-</a>
+🧭 > roadmap --current
 
-<a href="https://facebook.com/fuadbla008">
-  <img src="https://img.shields.io/badge/%E2%96%B6_FACEBOOK-fuadbla008-1877F2?style=for-the-badge&labelColor=05070a&logo=facebook&logoColor=1877F2"/>
-</a>
+┌──────────────────────────────────────────────────────────┐
+│  MISSION CONTROL                                          │
+├──────────────────────────────────────────────────────────┤
+│  🎯 NOW      : Scaling a production SaaS to 10k+ users   │
+│  📚 LEARNING : Rust • WebAssembly • System Design        │
+│  🛠️ BUILDING : DevTool for realtime debugging            │
+│  🤝 OPEN TO  : Freelance • Collabs • Full-time roles     │
+│  ⚡ SUPERPWR : Turning ☕ into clean, tested code         │
+└──────────────────────────────────────────────────────────┘
 
-<a href="https://wa.me/8801700000000">
-  <img src="https://img.shields.io/badge/%E2%96%B6_WHATSAPP-DIRECT-25D366?style=for-the-badge&labelColor=05070a&logo=whatsapp&logoColor=25D366"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%5B%E2%AC%A2%5D_ENCRYPTED-NOMINAL-00e6b8?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/%5B%E2%AC%A1%5D_RESPONSE-24H_MAX-ffb347?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/%5B%E2%8C%96%5D_ZONE-UTC%2B6-ff3b30?style=for-the-badge&labelColor=05070a"/>
-
-</div>
-
----
-
-## `[ ⌬ ]` GOVERNING_LAWS · OPERATIONAL PRINCIPLES
-
+📡 > contact --connect
 <div align="center">
+Channel	Link
+🌐 Portfolio	your-portfolio.com
+💼 LinkedIn	in/YOUR_USERNAME
+🐦 Twitter / X	@YOUR_USERNAME
+📧 Email	your@email.com
+💬 Discord	your_discord#0000
+📝 Blog	blog.your-domain.com
 
-<img src="https://img.shields.io/badge/%5B_EXEC%5D_CORE_LAWS_OF_OPERATION-05070a?style=for-the-badge&labelColor=05070a&color=ffb347"/>
+💼 Open for Freelance Projects & Full-Time Roles
+<img src="https://img.shields.io/badge/Available_for-Contract-00ffe1?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Available_for-Full--Time-8a2be2?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Response_Time-<24h-ff2e97?style=for-the-badge&labelColor=0d1117" /></div>
 
-</div>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<table>
-<tr>
-<td align="center" width="25%">
+📈 > profile --views
+<div align="center"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffe1&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=8a2be2&labelColor=0d1117" /> <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=ff2e97&labelColor=0d1117" /></div>
 
-### `[ ⬢ ]`
+<!-- ═══════════════════════════════════════════════════════════════════════ --><div align="center">
+🌌 "The best way to predict the future is to build it."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00ffe1,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn"/></div> ```
 
-**LAW 01**
-
-**CURIOSITY**
-
-
-Every anomaly is
-a signal to be
-decoded by
-the core.
-
-
-</td>
-<td align="center" width="25%">
-
-### `[ ⬡ ]`
-
-**LAW 02**
-
-**PRECISION**
-
-Fast is easy.
-Precise is what
-outlives the
-build cycle.
-
-
-</td>
-<td align="center" width="25%">
-
-### `[ ⌬ ]`
-
-**LAW 03**
-
-**EVOLUTION**
-
-The stack mutates.
-The core protocol
-must not.
-
-
-</td>
-<td align="center" width="25%">
-
-### `[ ⌖ ]`
-
-**LAW 04**
-
-**RESONANCE**
-
-Tools serve
-the operator.
-Not the
-reverse.
-
-
-</td>
-</tr>
-</table>
-
----
-
-## `[ ⍟ ]` SIGNAL_GRID · TIMELINE TRACE
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%5B_TRACE_%5D_CONTINUOUS_SIGNAL_VISUALIZATION-05070a?style=for-the-badge&labelColor=05070a&color=00e6b8"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fuadbla008/Fuadbla008/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fuadbla008/Fuadbla008/output/github-contribution-grid-snake.svg"/>
-  <img alt="Signal Grid" src="https://raw.githubusercontent.com/Fuadbla008/Fuadbla008/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-## `[ ⍣ ]` WISDOM_STREAM · RANDOM PULL
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
-</div>
-
----
-
-## `[ ⌬ ]` END_OF_OBSERVATION
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%5B%E2%AC%A2%5D_OBSERVATION-RECORDED-ffb347?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/%5B%E2%AC%A1%5D_SPECIMEN-FUAD--008-00e6b8?style=for-the-badge&labelColor=05070a"/>
-<img src="https://img.shields.io/badge/%5B%E2%8C%96%5D_BUILD-ZENITH--%E2%88%9E-ff3b30?style=for-the-badge&labelColor=05070a"/>
-
-<br/>
-
-### ⬢ `CHAMBER A-7 · OBSERVATION LOG CLOSED` ⬢
-
-**The specimen continues to operate within normal parameters.**  
-**Contact channels remain open for authorized transmissions.** 🛸
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e6b8,50:ff8c00,100:ffb347&height=80&section=footer&text=ZENITH-%E2%88%9E&fontSize=26&fontColor=05070a"/>
-
-</div>
-
-<!-- ══════════════════════════════════════════════════════════════════════
-     ZENITH-∞ · OBSERVATION LOG TERMINATED
-     SPECIMEN: FUAD-008 · © 2026 BARKAT ISLAM FUAD
-     AMBER CRT · BIO-JADE · SIGNAL-RED · ALL SYSTEMS NOMINAL
-     ══════════════════════════════════════════════════════════════════════ -->
