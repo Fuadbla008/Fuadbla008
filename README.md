@@ -39,7 +39,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 # GitHub Profile 3D Contrib
 
-![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+![svg](https://raw.githubusercontent.com/FuadBla008/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
 <!-- Language code order (except English) -->
 English (en) |
