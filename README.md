@@ -82,9 +82,6 @@
 
 ---
 
-## 🏅 Holopin Badges
-[![An image of @MD FUAD MIA's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Fuadbla008)](https://holopin.io/@Fuadbla008)
-
 ---
 
 ## 📈 GitHub Stats & Metrics
