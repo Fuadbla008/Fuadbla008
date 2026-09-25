@@ -165,7 +165,7 @@ When I'm not pushing commits, I'm exploring **CTF challenges**, researching **ne
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fuadbla008&theme=tokyo-night&bg_color=020208&color=4ff0ff&line=ff4fd8&point=ffbe4f&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fuadbla008&theme=tokyonight&bg_color=020208&color=4ff0ff&line=ff4fd8&point=ffbe4f&area=true&hide_border=true" width="100%"/>
 
 <br/>
 
