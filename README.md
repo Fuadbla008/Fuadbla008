@@ -103,6 +103,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=Fuadbla008&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
     <img alt="Mahyudeen's GitHub Stats" src="https://ghstats.dev/api/card?username=Fuadbla008&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
   </picture>
+</p>
+
+<p align="right">
 
 <a href="https://fuad.dev.bd" target="_blank">
     <picture>
@@ -118,6 +121,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
     <img alt="Top Languages" src="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
   </picture>
+
 </p>
 
   <a href="https://fuad.dev.bd" target="_blank">
