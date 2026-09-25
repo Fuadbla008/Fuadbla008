@@ -103,18 +103,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=Fuadbla008&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=10B981&border_color=E2E8F0">
     <img alt="Mahyudeen's GitHub Stats" src="https://ghstats.dev/api/card?username=Fuadbla008&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488" width="48%" />
   </picture>
-</p>
-
-<p align="right">
-
-<a href="https://fuad.dev.bd" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
-      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280" />
-    </picture>
-  </a>
-  
   <!-- Top Languages Card -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=030712&title_color=10B981&text=94A3B8&icon_color=34D399&border_color=0D9488">
@@ -124,7 +112,7 @@
 
 </p>
 
-  <a href="https://fuad.dev.bd" target="_blank">
+<a href="https://fuad.dev.bd" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280">
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8">
