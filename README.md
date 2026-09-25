@@ -38,28 +38,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-# Hi there, I'm Mahyudeen Shahid! 👋
-
-<!-- Theme-Sensitive Header Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="readmefile/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="readmefile/light.svg">
-  <img alt="Mahyudeen Shahid Hero Banner" src="readmefile/dark.svg" width="100%">
-</picture>
-
-<br/>
-
-## 🚀 About Me
-I’m **Mahyudeen Shahid**, a Software Engineering student and Full-Stack Web Developer who builds impactful, high-performance web applications beyond simple landing pages, focusing on immersive and interactive experiences using **GSAP, Framer Motion, Three.js, and Spline**. 
-
-I work with **React, Next.js, MERN stack, and Supabase**, combining creative frontend development with strong backend functionality to build scalable full-stack solutions. I’m also passionate about **AI and automation**, building AI agents and workflows using tools like **n8n**, and I have experience deploying applications across Netlify, Vercel, DigitalOcean, AWS, Google Cloud, Azure, and Hostinger.
-
-> 💡 *"Every error is a lesson and every crash is an opportunity to rebuild stronger."*
-
-- 🎓 **Education:** B.S. in Software Engineering, Pakistan.
-- 💬 **Ask me about:** Creative development, full-stack architectures, or automated AI agent workflows.
-- ✉️ **Contact:** [mahyudeenjutt@gmail.com](mailto:mahyudeenjutt@gmail.com)
-- 🌐 **Portfolio:** [mahyudeen.netlify.app](https://mahyudeen.netlify.app)
 
 ---
 
@@ -105,7 +83,7 @@ I work with **React, Next.js, MERN stack, and Supabase**, combining creative fro
 ---
 
 ## 🏅 Holopin Badges
-[![An image of @mahyudeenshahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahyudeenshahid)](https://holopin.io/@mahyudeenshahid)
+[![An image of @MD FUAD MIA's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Fuadbla008)](https://holopin.io/@Fuadbla008)
 
 ---
 
