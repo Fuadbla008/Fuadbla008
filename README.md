@@ -31,7 +31,8 @@
 </div>
 
 <br/>
-## 👨‍💻 About Me
+
+## About Me
 
 I'm **Fuad**, a **Full-Stack Web Developer** passionate about building modern, scalable, and user-focused digital experiences.
 
