@@ -33,8 +33,6 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
 </div>
 
 ---
@@ -273,6 +271,8 @@ I'm always interested in building meaningful products, collaborating on interest
 </p>
 
 ---
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 <div align="center">
 
