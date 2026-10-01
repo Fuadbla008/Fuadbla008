@@ -48,10 +48,6 @@ I specialize in turning ideas into **clean interfaces, powerful backend systems,
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -139,3 +135,4 @@ I specialize in turning ideas into **clean interfaces, powerful backend systems,
   </a>
 
 ---
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
