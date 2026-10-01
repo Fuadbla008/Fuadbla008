@@ -4,34 +4,33 @@
 
 <div align="center">
 
-<!-- ▓▓ ANIMATED HEADER ▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ffe1,100:8a2be2&height=200&section=header&text=FUAD&fontSize=70&fontColor=00ffe1&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=20&descColor=bf00ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,45:00ffe1,75:7c3aed,100:ff2bd6&height=220&section=header&text=FUAD&fontSize=72&fontColor=00ffe1&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%7C%20MERN%20Stack%20Developer&descAlignY=57&descSize=20&descColor=bf00ff" width="100%"/>
 
-<!-- ▓▓ TYPING ANIMATION ▓▓ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFE1&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%3E+Initializing+developer.exe...;%3E+Full-Stack+Developer+%7C+MERN+%7C+Next.js;%3E+Building+modern+digital+experiences.;%3E+System+online.+Let's+build+something+epic." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00FFE1&center=true&vCenter=true&multiline=true&width=900&height=105&lines=%3E+Initializing+developer.exe...;%3E+Full-Stack+%7C+MERN+Stack+Developer;%3E+Building+modern%2C+scalable+web+applications.;%3E+Turning+ideas+into+real-world+digital+products." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- ▓▓ SOCIAL LINKS ▓▓ -->
 <a href="https://fuad.dev.bd" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00ffe1" />
+  <img src="https://img.shields.io/badge/Portfolio-05070D?style=for-the-badge&logo=vercel&logoColor=00FFE1&labelColor=05070D" />
 </a>
 <a href="https://linkedin.com/in/fuadbla008" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffe1" />
+  <img src="https://img.shields.io/badge/LinkedIn-05070D?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=05070D" />
 </a>
 <a href="https://twitter.com/barkatislamfuad" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00ffe1" />
+  <img src="https://img.shields.io/badge/Twitter-05070D?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=05070D" />
 </a>
 <a href="mailto:barkatislamfuad@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffe1" />
+  <img src="https://img.shields.io/badge/Email-05070D?style=for-the-badge&logo=gmail&logoColor=FF4B8B&labelColor=05070D" />
 </a>
 <a href="https://discord.com/users/dev.fuad007" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ffe1" />
+  <img src="https://img.shields.io/badge/Discord-05070D?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=05070D" />
 </a>
 
 <br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Fuadbla008&style=for-the-badge&color=00FFE1&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -39,17 +38,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Fuad**, a **Full-Stack Web Developer** passionate about building modern, scalable, and user-focused digital experiences.
+I'm **Fuad**, a **Full-Stack & MERN Stack Developer** passionate about building modern, scalable, and user-focused digital products.
 
-I specialize in turning ideas into **clean interfaces, reliable backend systems, and practical web solutions**. I enjoy working across the stack, exploring modern technologies, and continuously improving the way I build software.
+I work across the complete web stack — from **responsive frontend interfaces and interactive experiences** to **REST APIs, authentication, databases, and deployment**. I enjoy turning ideas and real-world problems into clean, practical, and maintainable software.
 
-My goal is simple: **write useful software, solve real problems, and keep learning every day.**
+My development approach is centered around **clean architecture, useful UX, performance, scalability, and continuous learning**.
 
-**⚡ Frontend:** React, Next.js, Tailwind CSS  
-**⚙️ Backend:** Node.js, Express, FastAPI  
-**🗄️ Database:** MongoDB, PostgreSQL, MySQL, Supabase  
-**🤖 Exploring:** AI, Automation & Intelligent Applications  
-**☁️ Deployment:** Vercel, Netlify, AWS & Cloud Platforms
+### ⚡ Core Expertise
+
+- 🖥️ **Frontend Development** — React, Next.js, JavaScript, TypeScript, Tailwind CSS
+- ⚙️ **MERN Stack Development** — MongoDB, Express.js, React, Node.js
+- 🔌 **Backend & APIs** — Node.js, Express.js, REST APIs, authentication & business logic
+- 🗄️ **Database Development** — MongoDB, PostgreSQL, MySQL, Supabase
+- 🎨 **Modern UI/UX** — responsive interfaces, animations, interactive experiences
+- 🤖 **AI & Automation** — AI APIs, n8n, workflow automation
+- ☁️ **Deployment & Infrastructure** — Vercel, Netlify, AWS, DigitalOcean, cloud hosting
 
 > **Code with purpose. Build with curiosity. Keep evolving.**
 
@@ -57,37 +60,45 @@ My goal is simple: **write useful software, solve real problems, and keep learni
 
 ## 🚀 Featured Projects
 
-Here are some of the projects and systems I'm building and exploring.
+### 🏋️ GetFitPro — Gym & Fitness Log App
 
-### 🌐 Portfolio & Web Experiences
+A modern **gym and fitness log application** designed to help users track their workout and fitness activities through a clean, focused interface.
 
-Modern, responsive websites focused on clean UI, performance, usability, and interactive experiences.
+**Tech:** `React` `JavaScript` `CSS` `Vercel`
 
-**Tech:** `React` `Next.js` `Tailwind CSS` `JavaScript`
+**🔗 Live Demo:** [**getfitpro.vercel.app →**](https://getfitpro.vercel.app/)
 
-🔗 **[Visit Portfolio →](https://fuad.dev.bd)**
+---
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing projects, skills, experience, and modern web development work.
+
+**Tech:** `HTML` `CSS` `JavaScript` `React` `Next.js`
+
+**🔗 Live:** [**fuad.dev.bd →**](https://fuad.dev.bd)
 
 ---
 
 ### 🚚 Fleet & Vehicle Management Systems
 
-Web-based tools for managing vehicle information, operational data, status tracking, documentation, and location-based fleet workflows.
+Web-based systems and automation workflows for vehicle information, operational data, status tracking, documentation, and location-based fleet management.
 
 **Tech:** `JavaScript` `Google Apps Script` `Google Sheets` `Node.js` `PostgreSQL`
 
 ---
 
-### 📱 Business & Productivity Applications
+### 📊 Business & Productivity Applications
 
-Practical applications designed to simplify real-world workflows through dashboards, databases, automation, search, and role-based systems.
+Practical web applications focused on dashboards, databases, search, role-based access, workflow management, and business automation.
 
 **Tech:** `React` `Node.js` `Supabase` `PostgreSQL`
 
 ---
 
-### 🤖 Automation & AI Experiments
+### 🤖 AI & Automation Experiments
 
-Exploring AI-powered workflows, browser automation, intelligent tools, APIs, and automation systems that reduce repetitive work.
+Exploring AI-powered tools, API integrations, browser automation, intelligent workflows, and systems designed to reduce repetitive tasks.
 
 **Tech:** `AI APIs` `n8n` `JavaScript` `Node.js` `REST APIs`
 
@@ -97,126 +108,159 @@ Exploring AI-powered workflows, browser automation, intelligent tools, APIs, and
 
 ## 🔭 Currently Working On
 
-- 🚀 Building modern full-stack web applications
+- 🚀 Building modern **full-stack web applications**
 - ⚛️ Developing with **React, Next.js & TypeScript**
-- 🎨 Improving modern UI/UX and interactive web experiences
-- ⚙️ Building practical backend systems and REST APIs
-- 🤖 Exploring **AI, automation, and intelligent workflows**
-- ☁️ Learning better deployment and cloud architecture practices
+- 🧩 Building applications with the **MERN stack**
+- 🎨 Creating premium, responsive and interactive UI/UX
+- ⚙️ Developing REST APIs and backend services
+- 🗄️ Working with MongoDB, PostgreSQL and Supabase
+- 🤖 Exploring AI-powered applications and automation
+- ☁️ Improving cloud deployment and server architecture
 
 ---
 
-## 🧠 Development Focus
+## 🧠 Full-Stack Development Focus
 
 ```text
-Frontend        →  Modern UI • UX • Performance • Accessibility
-Backend         →  APIs • Authentication • Business Logic
-Database        →  Data Modeling • Queries • Security
-Automation      →  AI • APIs • n8n • Browser Automation
-Deployment      →  Cloud • CI/CD • Hosting • Server Management
-Architecture    →  Scalable • Maintainable • Practical Systems
+Frontend       → React • Next.js • TypeScript • Tailwind CSS
+Backend        → Node.js • Express.js • REST APIs
+MERN           → MongoDB • Express • React • Node.js
+Database       → MongoDB • PostgreSQL • MySQL • Supabase
+UI / UX        → Responsive Design • Animation • Accessibility
+Automation     → AI APIs • n8n • Browser Automation
+Deployment     → Vercel • Netlify • AWS • DigitalOcean
+Architecture   → Clean • Scalable • Maintainable • Practical
 ```
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 🖥️ Frontend & Creative
+## ⚡ Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d1117?style=flat-square&logo=framer&logoColor=BB68FC)
-![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88CE02)
-![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=FFFFFF)
-![Spline](https://img.shields.io/badge/Spline-0d1117?style=flat-square&logo=spline&logoColor=FFFFFF)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-05070D?style=for-the-badge&logo=html5&logoColor=FF6B35" />
+  <img src="https://img.shields.io/badge/CSS3-05070D?style=for-the-badge&logo=css3&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/JavaScript-05070D?style=for-the-badge&logo=javascript&logoColor=FFE600" />
+  <img src="https://img.shields.io/badge/TypeScript-05070D?style=for-the-badge&logo=typescript&logoColor=3B82F6" />
+  <img src="https://img.shields.io/badge/React-05070D?style=for-the-badge&logo=react&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Next.js-05070D?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-05070D?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF" />
+</p>
 
-### ⚙️ Backend & API
+<p>
+  <img src="https://img.shields.io/badge/Framer_Motion-05070D?style=for-the-badge&logo=framer&logoColor=FF5CF4" />
+  <img src="https://img.shields.io/badge/GSAP-05070D?style=for-the-badge&logo=greensock&logoColor=8BFF00" />
+  <img src="https://img.shields.io/badge/Three.js-05070D?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Spline-05070D?style=for-the-badge&logo=spline&logoColor=FF4FD8" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=FFFFFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=00FFE1)
+## 🔥 MERN Stack
 
-### 🗄️ Databases & BaaS
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-05070D?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
+  <img src="https://img.shields.io/badge/Express.js-05070D?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/React-05070D?style=for-the-badge&logo=react&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Node.js-05070D?style=for-the-badge&logo=nodedotjs&logoColor=39FF88" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
+> **MERN = MongoDB + Express.js + React + Node.js**
 
-### 🤖 AI & Automation
+## ⚙️ Backend & API Development
 
-![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)
-![OpenAI](https://img.shields.io/badge/AI_APIs-0d1117?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Gemini](https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=8AB4F8)
-![Automation](https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=robotframework&logoColor=00FFE1)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-05070D?style=for-the-badge&logo=nodedotjs&logoColor=39FF88" />
+  <img src="https://img.shields.io/badge/Express.js-05070D?style=for-the-badge&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/FastAPI-05070D?style=for-the-badge&logo=fastapi&logoColor=00E5C3" />
+  <img src="https://img.shields.io/badge/Django-05070D?style=for-the-badge&logo=django&logoColor=58FFB0" />
+  <img src="https://img.shields.io/badge/Flask-05070D?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/REST_API-05070D?style=for-the-badge&logo=fastapi&logoColor=00FFE1" />
+</p>
 
-### ☁️ DevOps & Deployment
+## 🗄️ Databases & Backend Services
 
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=FFFFFF)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0d1117?style=flat-square&logo=digitalocean&logoColor=0080FF)
-![Hostinger](https://img.shields.io/badge/Hostinger-0d1117?style=flat-square&logo=hostinger&logoColor=673DE6)
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-05070D?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
+  <img src="https://img.shields.io/badge/PostgreSQL-05070D?style=for-the-badge&logo=postgresql&logoColor=4D9FFF" />
+  <img src="https://img.shields.io/badge/MySQL-05070D?style=for-the-badge&logo=mysql&logoColor=00BFFF" />
+  <img src="https://img.shields.io/badge/Supabase-05070D?style=for-the-badge&logo=supabase&logoColor=3CFF9A" />
+  <img src="https://img.shields.io/badge/Firebase-05070D?style=for-the-badge&logo=firebase&logoColor=FFD21F" />
+</p>
+
+## 🤖 AI, Automation & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-05070D?style=for-the-badge&logo=n8n&logoColor=FF4F8B" />
+  <img src="https://img.shields.io/badge/OpenAI-05070D?style=for-the-badge&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Gemini_API-05070D?style=for-the-badge&logo=google&logoColor=7C83FF" />
+  <img src="https://img.shields.io/badge/Automation-05070D?style=for-the-badge&logo=robotframework&logoColor=00FFE1" />
+</p>
+
+## ☁️ DevOps, Deployment & Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Git-05070D?style=for-the-badge&logo=git&logoColor=FF5C35" />
+  <img src="https://img.shields.io/badge/GitHub-05070D?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vercel-05070D?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Netlify-05070D?style=for-the-badge&logo=netlify&logoColor=00FFE1" />
+  <img src="https://img.shields.io/badge/AWS-05070D?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Azure-05070D?style=for-the-badge&logo=microsoftazure&logoColor=00A8FF" />
+  <img src="https://img.shields.io/badge/DigitalOcean-05070D?style=for-the-badge&logo=digitalocean&logoColor=00AEEF" />
+  <img src="https://img.shields.io/badge/Hostinger-05070D?style=for-the-badge&logo=hostinger&logoColor=A855F7" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-`TypeScript` • `Next.js` • `Advanced React` • `System Design` • `AI Engineering` • `Cloud Architecture`
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-00FFE1?style=for-the-badge&labelColor=05070D&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Next.js-00FFE1?style=for-the-badge&labelColor=05070D&logo=nextdotjs&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/System_Design-00FFE1?style=for-the-badge&labelColor=05070D&logo=diagramsdotnet&logoColor=FF4FD8" />
+  <img src="https://img.shields.io/badge/AI_Engineering-00FFE1?style=for-the-badge&labelColor=05070D&logo=openai&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Cloud_Architecture-00FFE1?style=for-the-badge&labelColor=05070D&logo=icloud&logoColor=00BFFF" />
+</p>
 
 ---
 
-## 📈 GitHub Stats & Metrics
+# 📈 GitHub Stats & Metrics
 
-### Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=FFFFFF&color=475569&line=0D9488&point=10B981&area_color=E6FFFA&area=true&hide_border=true&radius=12"
-    />
-    <img
-      alt="Fuad's Contribution Activity Graph"
-      src="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=030712&color=94A3B8&line=10B981&point=34D399&area_color=0D9488&area=true&hide_border=true&radius=12"
-      width="100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=05070D&color=94A3B8&line=00FFE1&point=FF2BD6&area_color=7C3AED&area=true&hide_border=true&radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=FFFFFF&color=475569&line=0D9488&point=8A2BE2&area_color=E6FFFA&area=true&hide_border=true&radius=12" />
+    <img alt="Fuad's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=05070D&color=94A3B8&line=00FFE1&point=FF2BD6&area_color=7C3AED&area=true&hide_border=true&radius=12" width="100%" />
   </picture>
 </p>
 
-### GitHub Streak
+## GitHub Overview
+
+<p align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=Fuadbla008&bg=05070D&title_color=00FFE1&text=94A3B8&icon_color=FF2BD6&border_color=7C3AED" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=Fuadbla008&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=8A2BE2&border_color=E2E8F0" />
+    <img alt="Fuad's GitHub Stats" src="https://ghstats.dev/api/card?username=Fuadbla008&bg=05070D&title_color=00FFE1&text=94A3B8&icon_color=FF2BD6&border_color=7C3AED" width="48%" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=05070D&title_color=00FFE1&text=94A3B8&icon_color=FF2BD6&border_color=7C3AED" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=8A2BE2&border_color=E2E8F0" />
+    <img alt="Fuad's Top Languages" src="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=05070D&title_color=00FFE1&text=94A3B8&icon_color=FF2BD6&border_color=7C3AED" width="48%" />
+  </picture>
+
+</p>
+
+## GitHub Streak
 
 <p align="center">
   <a href="https://github.com/Fuadbla008">
     <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=10B981&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8"
-      />
-      <img
-        alt="Fuad's GitHub Streak"
-        src="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=030712&stroke=0D9488&ring=10B981&fire=34D399&currStreakNum=10B981&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=6B7280"
-      />
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=05070D&stroke=00FFE1&ring=7C3AED&fire=FF2BD6&currStreakNum=00FFE1&currStreakLabel=94A3B8&sideNums=FFFFFF&sideLabels=94A3B8&dates=6B7280" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fuadbla008&theme=light&background=FFFFFF&stroke=E2E8F0&ring=0D9488&fire=8A2BE2&currStreakNum=0D9488&currStreakLabel=475569&sideNums=475569&sideLabels=475569&dates=94A3B8" />
+      <img alt="Fuad's GitHub Streak" src="https://streak-stats.demolab.com?user=Fuadbla008&theme=dark&background=05070D&stroke=00FFE1&ring=7C3AED&fire=FF2BD6&currStreakNum=00FFE1&currStreakLabel=94A3B8&sideNums=FFFFFF&sideLabels=94A3B8&dates=6B7280" />
     </picture>
   </a>
 </p>
@@ -228,20 +272,28 @@ Architecture    →  Scalable • Maintainable • Practical Systems
 I'm always interested in building meaningful products, collaborating on interesting projects, and exploring new technologies.
 
 <p align="center">
-  <a href="https://fuad.dev.bd" target="_blank">🌐 Portfolio</a> •
-  <a href="https://github.com/Fuadbla008" target="_blank">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/fuadbla008" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:barkatislamfuad@gmail.com">📧 Email</a>
+  <a href="https://fuad.dev.bd" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-05070D?style=for-the-badge&logoColor=00FFE1" />
+  </a>
+  <a href="https://github.com/Fuadbla008" target="_blank">
+    <img src="https://img.shields.io/badge/💻_GitHub-05070D?style=for-the-badge&logoColor=FFFFFF" />
+  </a>
+  <a href="https://linkedin.com/in/fuadbla008" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-05070D?style=for-the-badge&logoColor=00BFFF" />
+  </a>
+  <a href="mailto:barkatislamfuad@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-05070D?style=for-the-badge&logoColor=FF2BD6" />
+  </a>
 </p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 <div align="center">
 
 ### ⚡ Build. Learn. Experiment. Improve. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00ffe1,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:00ffe1,100:05070d&height=130&section=footer" width="100%"/>
 
 </div>
