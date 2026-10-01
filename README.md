@@ -30,8 +30,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Fuadbla008&style=for-the-badge&color=00FFE1&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 ---
