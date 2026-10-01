@@ -64,7 +64,7 @@ My development approach is centered around **clean architecture, useful UX, perf
 
 A modern **gym and fitness log application** designed to help users track their workout and fitness activities through a clean, focused interface.
 
-**Tech:** `React` `JavaScript` `CSS` `Vercel`
+**Tech:** `React` `JavaScript` `CSS` `Vercel` `nextjs` `tailwindcss` `live api`
 
 **🔗 Live Demo:** [**getfitpro.vercel.app →**](https://getfitpro.vercel.app/)
 
@@ -74,7 +74,7 @@ A modern **gym and fitness log application** designed to help users track their 
 
 My personal developer portfolio showcasing projects, skills, experience, and modern web development work.
 
-**Tech:** `HTML` `CSS` `JavaScript` `React` `Next.js`
+**Tech:** `HTML` `CSS` `JavaScript` `React` `Next.js` `tailwind css`
 
 **🔗 Live:** [**fuad.dev.bd →**](https://fuad.dev.bd)
 
