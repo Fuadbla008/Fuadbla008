@@ -28,7 +28,22 @@
 <a href="mailto:barkatislamfuad@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffe1" /></a>
 <a href="https://discord.com/users/dev.fuad007"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00ffe1" /></a>
 
-<br/><br/>
+<br/>
+## 👨‍💻 About Me
+
+I'm **Fuad**, a **Full-Stack Web Developer** passionate about building modern, scalable, and user-focused digital experiences.
+
+I specialize in turning ideas into **clean interfaces, powerful backend systems, and practical web solutions**. I enjoy working across the stack, exploring emerging technologies, and continuously improving the way I build software.
+
+**⚡ Frontend:** React, Next.js, Tailwind CSS  
+**⚙️ Backend:** Node.js, Express, FastAPI  
+**🗄️ Database:** MongoDB, PostgreSQL, MySQL, Supabase  
+**🤖 Exploring:** AI, Automation & Intelligent Applications  
+**☁️ Deployment:** Vercel, Netlify, AWS & Cloud Platforms
+
+> **Code with purpose. Build with curiosity. Keep evolving.**
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
