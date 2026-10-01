@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=00FFE1&center=true&vCenter=true&multiline=true&width=900&height=105&lines=%3E+Initializing+developer.exe...;%3E+Full-Stack+%7C+MERN+Stack+Developer;%3E+Building+modern%2C+scalable+web+applications.;%3E+Turning+ideas+into+real-world+digital+products." alt="Typing SVG"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://fuad.dev.bd" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-05070D?style=for-the-badge&logo=vercel&logoColor=00FFE1&labelColor=05070D" />
@@ -231,24 +231,6 @@ Architecture   → Clean • Scalable • Maintainable • Practical
     <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=FFFFFF&color=475569&line=0D9488&point=8A2BE2&area_color=E6FFFA&area=true&hide_border=true&radius=12" />
     <img alt="Fuad's Contribution Activity Graph" src="https://activity-graph.vercel.app/graph?username=Fuadbla008&bg_color=05070D&color=94A3B8&line=00FFE1&point=FF2BD6&area_color=7C3AED&area=true&hide_border=true&radius=12" width="100%" />
   </picture>
-</p>
-
-## GitHub Overview
-
-<p align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=Fuadbla008&bg=05070D&title_color=00FFE1&text=94A3B8&icon_color=FF2BD6&border_color=7C3AED" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=Fuadbla008&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=8A2BE2&border_color=E2E8F0" />
-    <img alt="Fuad's GitHub Stats" src="https://ghstats.dev/api/card?username=Fuadbla008&bg=05070D&title_color=00FFE1&text=94A3B8&icon_color=FF2BD6&border_color=7C3AED" width="48%" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=05070D&title_color=00FFE1&text=94A3B8&icon_color=FF2BD6&border_color=7C3AED" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=FFFFFF&title_color=0D9488&text=475569&icon_color=8A2BE2&border_color=E2E8F0" />
-    <img alt="Fuad's Top Languages" src="https://ghstats.dev/api/langs?username=Fuadbla008&layout=grid&bg=05070D&title_color=00FFE1&text=94A3B8&icon_color=FF2BD6&border_color=7C3AED" width="48%" />
-  </picture>
-
 </p>
 
 ## GitHub Streak
