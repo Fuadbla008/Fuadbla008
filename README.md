@@ -13,12 +13,6 @@
 </a>
 
 <br/>
-
-<!-- ▓▓ STATUS BADGES ▓▓ -->
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffe1?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00ffe1)
-![Focus](https://img.shields.io/badge/FOCUS-FULL--STACK-8a2be2?style=for-the-badge&labelColor=0d1117&logo=target&logoColor=8a2be2)
-![Location](https://img.shields.io/badge/LOCATION-EARTH-ff2e97?style=for-the-badge&labelColor=0d1117&logo=googlemaps&logoColor=ff2e97)
-
 <br/>
 
 <!-- ▓▓ SOCIAL LINKS ▓▓ -->
