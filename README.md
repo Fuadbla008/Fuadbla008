@@ -90,7 +90,7 @@ Web-based systems and automation workflows for vehicle information, operational 
 
 Practical web applications focused on dashboards, databases, search, role-based access, workflow management, and business automation.
 
-**Tech:** `React` `Node.js` `Supabase` `PostgreSQL`
+**Tech:** `React` `Node.js` `Supabase` `PostgreSQL` `tailwind css`
 
 ---
 
