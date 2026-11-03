@@ -58,11 +58,21 @@ My development approach is centered around **clean architecture, useful UX, perf
 
 ## 🚀 Featured Projects
 
+### 📚 Friendly Library — Online Library Management Platform
+
+A full-stack digital library platform where users can discover, browse, add, and share books, borrow available books, and manage their personal library activities through an intuitive dashboard.
+
+**Tech:** `Next.js` `Node.js` `Express.js` `MongoDB` `Better Auth` `JWT` `Google OAuth` `Vercel` `Render`
+
+**🔗 Live Demo:** [**Friendly Library →**](https://friendly-library-seven.vercel.app/)
+
+---
+
 ### 🏋️ GetFitPro — Gym & Fitness Log App
 
 A modern **gym and fitness log application** designed to help users track their workout and fitness activities through a clean, focused interface.
 
-**Tech:** `React` `JavaScript` `CSS` `Vercel` `nextjs` `tailwindcss` `live api`
+**Tech:** `React` `JavaScript` `CSS` `Vercel` `Next.js` `Tailwind CSS` `Live API`
 
 **🔗 Live Demo:** [**getfitpro.vercel.app →**](https://getfitpro.vercel.app/)
 
@@ -72,7 +82,7 @@ A modern **gym and fitness log application** designed to help users track their 
 
 My personal developer portfolio showcasing projects, skills, experience, and modern web development work.
 
-**Tech:** `HTML` `CSS` `JavaScript` `React` `Next.js` `tailwind css`
+**Tech:** `HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
 **🔗 Live:** [**fuad.dev.bd →**](https://fuad.dev.bd)
 
@@ -90,7 +100,7 @@ Web-based systems and automation workflows for vehicle information, operational 
 
 Practical web applications focused on dashboards, databases, search, role-based access, workflow management, and business automation.
 
-**Tech:** `React` `Node.js` `Supabase` `PostgreSQL` `tailwind css`
+**Tech:** `React` `Node.js` `Supabase` `PostgreSQL` `Tailwind CSS`
 
 ---
 
@@ -100,9 +110,12 @@ Exploring AI-powered tools, API integrations, browser automation, intelligent wo
 
 **Tech:** `AI APIs` `n8n` `JavaScript` `Node.js` `REST APIs`
 
+---
+
 > 🔗 **[Explore More Projects on GitHub →](https://github.com/Fuadbla008)**
 
 ---
+
 
 ## 🔭 Currently Working On
 
